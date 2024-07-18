@@ -18,6 +18,7 @@ ujson
 pyshorteners
 datetime
 pytz
+edge-tts
 dnspython==2.3.0
 python-math
 Pillow
